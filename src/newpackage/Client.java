@@ -1,8 +1,3 @@
-/*
-    Sprizzetto was here!
-*/
-
-
 package newpackage;
 
 
